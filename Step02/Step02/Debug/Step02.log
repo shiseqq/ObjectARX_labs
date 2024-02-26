@@ -1,0 +1,4 @@
+﻿  StdAfx.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(193,30): error C2371: size_t: переопределение; различные базовые типы
+C:\Users\argon\OneDrive\Рабочий стол\Работа\Step02\Step02\predefined C++ types (compiler internal)(16): message : см. объявление "size_t"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\yvals_core.h(1375,1): fatal error C1189: #error:  /RTCc rejects conformant code, so it is not supported by the C++ Standard Library. Either remove this compiler option, or define _ALLOW_RTCc_IN_STL to acknowledge that you have received this warning.
