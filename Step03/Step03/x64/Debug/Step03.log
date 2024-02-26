@@ -1,0 +1,11 @@
+﻿  StdAfx.cpp
+  acrxEntryPoint.cpp
+  DocData.cpp
+  Step03.cpp
+  utilities.cpp
+  utilities.h
+  Создание кода...
+x64\Debug\utilities.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+     Создается библиотека x64\Debug\ADSKStep03.lib и объект x64\Debug\ADSKStep03.exp
+rxapi.lib(libinit.obj) : warning LNK4099: "rxapi.pdb" PDB не найден с "rxapi.lib(libinit.obj)" или на "C:\Users\argon\OneDrive\Рабочий стол\ObjectARX_labs\Step03\x64\Debug\rxapi.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  Step03.vcxproj -> C:\Users\argon\OneDrive\Рабочий стол\ObjectARX_labs\Step03\x64\Debug\ADSKStep03.arx
