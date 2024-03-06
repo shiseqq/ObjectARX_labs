@@ -1,0 +1,3 @@
+﻿     Создается библиотека x64\Debug\AsdkEmployeeDetails.lib и объект x64\Debug\AsdkEmployeeDetails.exp
+rxapi.lib(libinit.obj) : warning LNK4099: "rxapi.pdb" PDB не найден с "rxapi.lib(libinit.obj)" или на "C:\Users\argon\OneDrive\Рабочий стол\Step05_ksen\x64\Debug\rxapi.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  EmployeeDetails.vcxproj -> C:\Users\argon\OneDrive\Рабочий стол\Step05_ksen\x64\Debug\AsdkEmployeeDetails.dbx
