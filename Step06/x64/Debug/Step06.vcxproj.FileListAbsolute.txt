@@ -1,0 +1,2 @@
+C:\Users\argon\OneDrive\Рабочий стол\Step06\x64\Debug\Step06.vcxproj.AssemblyReference.cache
+C:\Users\argon\OneDrive\Рабочий стол\Step06\x64\Debug\ADSKStep06.arx

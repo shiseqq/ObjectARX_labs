@@ -1,0 +1,4 @@
+﻿  acrxEntryPoint.cpp
+     Создается библиотека x64\Debug\ADSKStep06.lib и объект x64\Debug\ADSKStep06.exp
+rxapi.lib(libinit.obj) : warning LNK4099: "" PDB не найден с "rxapi.lib(libinit.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+  Step06.vcxproj -> C:\Users\argon\OneDrive\Рабочий стол\Step06\x64\Debug\ADSKStep06.arx

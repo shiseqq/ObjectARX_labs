@@ -1,0 +1,8 @@
+﻿  StdAfx.cpp
+  acrxEntryPoint.cpp
+  AsdkEmployee.cpp
+  Employee.cpp
+  Создание кода...
+     Создается библиотека x64\Debug\ADSKEmployee.lib и объект x64\Debug\ADSKEmployee.exp
+rxapi.lib(libinit.obj) : warning LNK4099: "rxapi.pdb" PDB не найден с "rxapi.lib(libinit.obj)" или на "C:\Users\argon\OneDrive\Рабочий стол\Step06\x64\Debug\rxapi.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  Employee.vcxproj -> C:\Users\argon\OneDrive\Рабочий стол\Step06\x64\Debug\ADSKEmployee.dbx
