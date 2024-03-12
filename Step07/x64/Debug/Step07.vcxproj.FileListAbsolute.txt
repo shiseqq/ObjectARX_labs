@@ -1,0 +1,2 @@
+C:\Users\argon\OneDrive\Рабочий стол\ObjectARX_labs\Step07\x64\Debug\Step07.vcxproj.AssemblyReference.cache
+C:\Users\argon\OneDrive\Рабочий стол\ObjectARX_labs\Step07\x64\Debug\AsdkStep07.arx

@@ -1,0 +1,17 @@
+﻿  StdAfx.cpp
+  AsdkDbEmployeeReactor.cpp
+  AsdkEdEmployeeReactor.cpp
+  AsdkEmployeeReactor.cpp
+  DocData.cpp
+  Step07.cpp
+  acrxEntryPoint.cpp
+  utilities.cpp
+  Создание кода...
+AsdkEmployeeReactor.obj : warning LNK4006: "public: static class AcRxClass * __cdecl AsdkEmployeeReactor::desc(void)" (?desc@AsdkEmployeeReactor@@SAPEAVAcRxClass@@XZ) уже определен в AsdkEdEmployeeReactor.obj; второе определение пропущено
+AsdkEmployeeReactor.obj : warning LNK4006: "public: virtual class AcRxClass * __cdecl AsdkEmployeeReactor::isA(void)const " (?isA@AsdkEmployeeReactor@@UEBAPEAVAcRxClass@@XZ) уже определен в AsdkEdEmployeeReactor.obj; второе определение пропущено
+AsdkEmployeeReactor.obj : warning LNK4006: "public: static void __cdecl AsdkEmployeeReactor::rxInit(void)" (?rxInit@AsdkEmployeeReactor@@SAXXZ) уже определен в AsdkEdEmployeeReactor.obj; второе определение пропущено
+AsdkEmployeeReactor.obj : warning LNK4006: "public: static class AcRxClass * AsdkEmployeeReactor::gpDesc" (?gpDesc@AsdkEmployeeReactor@@2PEAVAcRxClass@@EA) уже определен в AsdkEdEmployeeReactor.obj; второе определение пропущено
+     Создается библиотека x64\Debug\AsdkStep07.lib и объект x64\Debug\AsdkStep07.exp
+C:\Users\argon\OneDrive\Рабочий стол\ObjectARX_labs\Step07\x64\Debug\AsdkStep07.arx : warning LNK4088: образ создается из-за параметра /FORCE; образ нельзя запустить
+rxapi.lib(libinit.obj) : warning LNK4099: "rxapi.pdb" PDB не найден с "rxapi.lib(libinit.obj)" или на "C:\Users\argon\OneDrive\Рабочий стол\ObjectARX_labs\Step07\x64\Debug\rxapi.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  Step07.vcxproj -> C:\Users\argon\OneDrive\Рабочий стол\ObjectARX_labs\Step07\x64\Debug\AsdkStep07.arx
